@@ -5,3 +5,4 @@ Our projects that have standalone pages are:
 
 - [HaskellR](/HaskellR/)
 - [Porcupine](/porcupine/)
+- [Kernmantle](/kernmantle/)
